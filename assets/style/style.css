@@ -1,0 +1,157 @@
+:root{
+    background-color: #181e25;
+}
+.box{
+    opacity: 0px;
+    color: aqua;
+    text-align: center;
+}
+.container{
+    text-align: center;
+    color: #8FA2B7;
+}
+.btn-group{
+    border: solid;
+    width: 270px;
+    height: 400px;
+    top: 292px;
+    left: 24px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.btn-1{
+    border: solid;
+    width:234px;
+    height:32px;
+    top: 316px;
+    left: 48px;
+    padding: 4px 16px 4px 16px;
+    gap: 10px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+}
+.btn-2{
+    border: solid;
+    width:234px;
+    height:32px;
+    top: 316px;
+    left: 48px;
+    padding: 4px 16px 4px 16px;
+    gap: 10px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+}
+.btn-3{
+    border: solid;
+    width:234px;
+    height:32px;
+    top: 412px;
+    left: 48px;
+    padding: 4px 16px 4px 16px;
+    gap: 10px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+}
+.btn-4{
+    border: solid;
+    width:234px;
+    height:32px;
+    top: 412px;
+    left: 48px;
+    padding: 4px 16px 4px 16px;
+    gap: 10px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+}
+.btn-5{
+    border: solid;
+    width:234px;
+    height:32px;
+    top: 412px;
+    left: 48px;
+    padding: 4px 16px 4px 16px;
+    gap: 10px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+}
+.btn-6{
+    border: solid;
+    width:234px;
+    height:32px;
+    top: 412px;
+    left: 48px;
+    padding: 4px 16px 4px 16px;
+    gap: 10px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+}
+.btn-7{
+    border: solid;
+    width:234px;
+    height:32px;
+    top: 412px;
+    left: 48px;
+    padding: 4px 16px 4px 16px;
+    gap: 10px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+}
+.btn-8{
+    border: solid;
+    width:234px;
+    height:32px;
+    top: 412px;
+    left: 48px;
+    padding: 4px 16px 4px 16px;
+    gap: 10px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+}
+.btn-9{
+    border: solid;
+    width:234px;
+    height:32px;
+    top: 412px;
+    left: 48px;
+    padding: 4px 16px 4px 16px;
+    gap: 10px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+}
+.btn-10{
+    border: solid;
+    width:234px;
+    height:32px;
+    top: 412px;
+    left: 48px;
+    padding: 4px 16px 4px 16px;
+    gap: 10px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+}
+.btn-11{
+    border: solid;
+    width:234px;
+    height:32px;
+    top: 412px;
+    left: 48px;
+    padding: 4px 16px 4px 16px;
+    gap: 10px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.btn-group-1{
+    display: flex;
+    flex-direction: column;
+}
+.btn-group-2{
+    display: flex;
+    flex-direction: column;
+}
